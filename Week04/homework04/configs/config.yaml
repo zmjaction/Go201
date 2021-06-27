@@ -1,0 +1,11 @@
+Database:
+  DBType: mysql
+  UserName: root
+  Password: xxx
+  Host: 127.0.0.1:3306
+  DBName: word
+  TablePrefix: monitor_
+  Charset: utf8
+  ParseTime: True
+  MaxIdleConns: 10
+  MaxOpenConns: 30
